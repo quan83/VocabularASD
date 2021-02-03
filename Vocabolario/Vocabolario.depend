@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1456704728 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\absvocabolario.cpp
+	"absvocabolario.h"
+
+1467220208 c:\users\antonio\desktop\asd vocasbo\vocabolario\absvocabolario.h
+	"projectheader.h"
+
+1467223913 c:\users\antonio\desktop\asd vocasbo\vocabolario\projectheader.h
+	<iostream>
+	<conio.h>
+	<string>
+	<list>
+	<cstdlib>
+
+1467223933 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\main.cpp
+	"projectheader.h"
+	"absvocabolario.h"
+	"vocabolariohash.h"
+	"nodorb.h"
+	"vocabolariorbtree.h"
+
+1467286444 c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolariohash.h
+	"projectheader.h"
+	"absvocabolario.h"
+	"vocabolo.h"
+
+1467283029 c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolo.h
+	"projectheader.h"
+
+1467227902 c:\users\antonio\desktop\asd vocasbo\vocabolario\nodorb.h
+	"projectheader.h"
+	"vocabolo.h"
+
+1467286444 c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolariorbtree.h
+	"projectheader.h"
+	"absvocabolario.h"
+	"nodorb.h"
+
+1467201332 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\nodorb.cpp
+	"nodorb.h"
+
+1467134870 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\projectheader.cpp
+	"projectheader.h"
+
+1467223924 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolariohash.cpp
+	"vocabolariohash.h"
+
+1467192847 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolo.cpp
+	"vocabolo.h"
+
+1467305490 source:c:\users\antonio\desktop\asd vocasbo\vocabolario\vocabolariorbtree.cpp
+	"vocabolariorbtree.h"
+
+1473715109 source:c:\users\whist\desktop\asd vocasbo\vocabolario\absvocabolario.cpp
+	"absvocabolario.h"
+
+1467220208 c:\users\whist\desktop\asd vocasbo\vocabolario\absvocabolario.h
+	"projectheader.h"
+
+1473704254 c:\users\whist\desktop\asd vocasbo\vocabolario\projectheader.h
+	<iostream>
+	<conio.h>
+	<string>
+	<list>
+	<cstdlib>
+
+1467134870 source:c:\users\whist\desktop\asd vocasbo\vocabolario\projectheader.cpp
+	"projectheader.h"
+
+1467223924 source:c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolariohash.cpp
+	"vocabolariohash.h"
+
+1473782230 c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolariohash.h
+	"projectheader.h"
+	"absvocabolario.h"
+	"vocabolo.h"
+
+1467283029 c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolo.h
+	"projectheader.h"
+
+1473704135 source:c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolariorbtree.cpp
+	"vocabolariorbtree.h"
+
+1467286444 c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolariorbtree.h
+	"projectheader.h"
+	"absvocabolario.h"
+	"nodorb.h"
+
+1467227902 c:\users\whist\desktop\asd vocasbo\vocabolario\nodorb.h
+	"projectheader.h"
+	"vocabolo.h"
+
+1467192847 source:c:\users\whist\desktop\asd vocasbo\vocabolario\vocabolo.cpp
+	"vocabolo.h"
+
+1473633692 source:c:\users\whist\desktop\asd vocasbo\vocabolario\nodorb.cpp
+	"nodorb.h"
+
+1473703953 source:c:\users\whist\desktop\asd vocasbo\vocabolario\main.cpp
+	"projectheader.h"
+	"absvocabolario.h"
+	"vocabolariohash.h"
+	"nodorb.h"
+	"vocabolariorbtree.h"
+
